@@ -31,28 +31,34 @@ Before running this project, make sure you have:
 - Git installed
 - Internet browser for Swagger UI
 
-## How to Run the Project
+## 🚀 How to Run the Project
 
 ### Step 1: Clone the repository
 
 ```bash
 git clone git@github.com:amgh2025/Rest_API_Swagger_2026.git
 cd Rest_API_Swagger_2026
-
-### Step 2: Go to the project folder
-
-```bash
+Step 2: Go to the project folder
 cd LibraryApi
-
-### Step 3: Restore dependencies
-
-```bash
+Step 3: Restore dependencies
 dotnet restore
-
-
-### Step 4:Run the application
-
-```bash
+Step 4: Run the application
 dotnet run
+Step 5: Open Swagger UI
 
+After running the project, check the terminal for a URL like:
+
+http://localhost:5000
+
+or
+
+https://localhost:7000
+
+Open your browser and go to:
+
+http://localhost:5000/swagger
+
+or
+
+https://localhost:7000/swagger
 
