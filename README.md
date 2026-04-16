@@ -39,8 +39,9 @@ Before running this project, make sure you have:
 git clone git@github.com:amgh2025/Rest_API_Swagger_2026.git
 cd Rest_API_Swagger_2026
 
-
+```
 ### Step 2: Go to the project folder
 
 ```bash
 cd LibraryApi
+```
