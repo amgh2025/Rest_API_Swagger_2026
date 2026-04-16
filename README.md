@@ -27,7 +27,7 @@ The purpose of this project is to help students understand:
 Before running this project, make sure you have:
 
 - .NET SDK installed
-- Visual Studio Code or Visual Studio
+- Any code editor (e.g., Visual Studio Code, Visual Studio, Rider, or simple editors like gedit)  
 - Git installed
 - Internet browser for Swagger UI
 
