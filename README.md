@@ -45,3 +45,30 @@ cd Rest_API_Swagger_2026
 ```bash
 cd LibraryApi
 ```
+
+### Step 3: Restore dependencies
+
+```bash
+dotnet restore
+```
+
+### Step 4: Run the application
+
+```bash
+dotnet run
+```
+
+### Step 5: Open Swagger UI
+
+After running the project, check the terminal for a URL like:
+
+```text
+http://localhost:5000
+```
+
+
+Open your browser and go to:
+
+```text
+http://localhost:5000/swagger
+```
